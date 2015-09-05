@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\projekt\basic\serverTest\bin\Release\serverTest.exe.config
+C:\Users\user\Desktop\projekt\basic\serverTest\bin\Release\serverTest.exe
+C:\Users\user\Desktop\projekt\basic\serverTest\bin\Release\serverTest.pdb
+C:\Users\user\Desktop\projekt\basic\serverTest\bin\Release\serverTest.xml
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.Resources.resources
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.exe
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.xml
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.pdb

@@ -1,0 +1,14 @@
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\bin\Debug\serverTest.exe.config
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\obj\Debug\serverTest.vbprojResolveAssemblyReference.cache
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\obj\Debug\serverTest.Resources.resources
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\obj\Debug\serverTest.vbproj.GenerateResource.Cache
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\obj\Debug\serverTest.xml
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\bin\Debug\serverTest.exe
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\bin\Debug\serverTest.pdb
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\bin\Debug\serverTest.xml
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\obj\Debug\serverTest.exe
+C:\Users\Andrzej Łapiński\documents\visual studio 2015\Projects\serverTest\serverTest\obj\Debug\serverTest.pdb
+C:\Users\user\Desktop\projekt\basic\serverTest\bin\Debug\serverTest.exe.config
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Debug\serverTest.exe
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Debug\serverTest.xml
+C:\Users\user\Desktop\projekt\basic\serverTest\obj\Debug\serverTest.pdb
