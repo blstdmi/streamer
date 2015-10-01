@@ -8,7 +8,3 @@ C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.vbproj.Gen
 C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.exe
 C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.xml
 C:\Users\user\Desktop\projekt\basic\serverTest\obj\Release\serverTest.pdb
-C:\Users\user\Documents\streamer\Server\serverTest\bin\Release\serverTest.exe.config
-C:\Users\user\Documents\streamer\Server\serverTest\obj\Release\serverTest.exe
-C:\Users\user\Documents\streamer\Server\serverTest\obj\Release\serverTest.xml
-C:\Users\user\Documents\streamer\Server\serverTest\obj\Release\serverTest.pdb
