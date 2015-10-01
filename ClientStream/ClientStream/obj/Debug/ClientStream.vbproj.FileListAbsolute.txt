@@ -1,0 +1,75 @@
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\bin\Debug\ClientStream.exe.config
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\bin\Debug\ClientStream.exe
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\bin\Debug\ClientStream.pdb
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\bin\Debug\ClientStream.xml
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.vbprojResolveAssemblyReference.cache
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.Resources.resources
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.vbproj.GenerateResource.Cache
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.exe
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.xml
+c:\users\andrzej łapiński\documents\visual studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.pdb
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Controls.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Video.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\MetroFramework.Design.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\MetroFramework.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Imaging.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Math.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Controls.xml
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Video.xml
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.xml
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Imaging.xml
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\AForge.Math.xml
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.ConfigureWindow.resources
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Andrzej Łapiński\Documents\Visual Studio 2015\Projects\ClientStream\ClientStream\obj\Debug\ClientStream.Streamer.resources
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\ClientStream.exe.config
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.exe
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.xml
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.pdb
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\ClientStream.exe
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\ClientStream.pdb
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\ClientStream.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\zxing.dll
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.dll
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Imaging.dll
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Math.dll
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Controls.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Video.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\zxing.pdb
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\zxing.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Imaging.xml
+C:\Users\alapinski\Desktop\ClientStream\bin\Debug\AForge.Math.xml
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.vbprojResolveAssemblyReference.cache
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.ConfigureWindow.resources
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.Resources.resources
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.Streamer.resources
+C:\Users\alapinski\Desktop\ClientStream\obj\Debug\ClientStream.vbproj.GenerateResource.Cache
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\ClientStream.exe.config
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.exe
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.pdb
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\ClientStream.exe
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\ClientStream.pdb
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\ClientStream.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.dll
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Math.dll
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Controls.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Video.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\zxing.pdb
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\zxing.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Imaging.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\bin\Debug\AForge.Math.xml
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.vbprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.ConfigureWindow.resources
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.Resources.resources
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.Streamer.resources
+C:\Users\user\Downloads\ClientStream\ClientStream\obj\Debug\ClientStream.vbproj.GenerateResource.Cache
